@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+li {
+  list-style: none;
+}
+
+.App__nav {
+  border: 2px solid black;
+}
+
+.note-list {
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.selected {
+  background-color: #ccc;
+}
